@@ -2,14 +2,14 @@
 layout: project
 type: project
 image: images/cotton-square.png
-title: Cotton
+title: Pokemon Maybe
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2019-03-12
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - Java
+  - Game
+summary: A text adventure game with GUI that I developed in high school.
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
