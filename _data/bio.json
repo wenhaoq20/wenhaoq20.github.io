@@ -17,7 +17,7 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
+        "username": "wenhaoq20",
         "url": "https://github.com/wenhaoq20"
       },
       {
@@ -29,14 +29,13 @@
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "algorithm",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+
       ]
     },
     {
-      "name": "data mining",
+      "name": "software development",
       "keywords": [
       ]
     },
@@ -44,6 +43,11 @@
       "name": "artificial intelligence",
       "keywords": [
       ]
+    },
+    {
+      "name": "Machine Learning",
+      "keywords": [
+       ]
     }
   ],
   "skills": [
@@ -55,8 +59,8 @@
         "C++",
         "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "HTML",
+        "Python"
       ]
     },
     {
@@ -67,16 +71,16 @@
         "Ubuntu",
         "Git/GitHub",
         "g++",
-        "TI LaunchPad"
+        "Windows"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Spring, 2024)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2020-08-01",
       "endDate": "Present",
       "gpa": "",
       "courses": [
@@ -84,18 +88,6 @@
     }
   ],
   "work": [
-    {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
-      "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
-    },
     {
       "company": "UH Information Technology Services",
       "position": "Help Desk Consultant",
@@ -111,43 +103,30 @@
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "CyberPatriot",
+      "website": "https://www.uscyberpatriot.org/",
+      "position": "Windows 10/Windows 10 Server Specialist",
+      "startDate": "2018-01-01",
+      "endDate": "2020",
+      "summary": "•	Lead a team that competed in the AFA CyberPatriot’s open division",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Specialized in Windows 10 OS and Windows 10 Server OS",
+        "Implemented Windows 10 and Windows 10 server harden techniques to prevent security risks"
       ]
     }
   ],
   "awards": [
     {
       "title": "B+ Scholarship",
-      "date": "2013-Present",
+      "date": "2020-Present",
       "awarder": "State of Hawaii",
       "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Manoa Academic Merit Scholarship",
+      "date": "2020-Present",
+      "awarder": "UH Manoa",
+      "summary": "Scholarship is an automatic $2,000 scholarship per year for four years of undergraduate study for first-time degree seeking students. Students must have a 3.5 GPA, 1200 SAT or 23 ACT upon the time of application to UH Manoa. "
     }
   ],
   "references": [
