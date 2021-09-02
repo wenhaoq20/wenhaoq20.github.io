@@ -4,7 +4,6 @@
     "label": "Student",
     "picture": "https://techfolios.github.io/template/images/molly.png",
     "email": "wenhaoq@hawaii.edu",
-    "phone": "808-333-4444",
     "website": "https://wenhaoq20.github.io/",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
     "location": {
@@ -29,18 +28,18 @@
   },
   "interests": [
     {
-      "name": "algorithm",
+      "name": "Algorithm",
       "keywords": [
 
       ]
     },
     {
-      "name": "software development",
+      "name": "Software Development",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Artificial Intelligence",
       "keywords": [
       ]
     },
@@ -67,13 +66,20 @@
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
         "Ubuntu",
         "Git/GitHub",
         "g++",
         "Windows"
       ]
-    }
+    },
+    {
+      "name": "Software",
+      "level": "",
+      "keywords": [
+        "Excel",
+        "Vegas 13",
+        "Photoshop"
+      ]
   ],
   "education": [
     {
