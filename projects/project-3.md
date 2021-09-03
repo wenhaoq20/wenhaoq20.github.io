@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
+image: images/poketitlescreen.JPG
 title: Pokemon Maybe
-permalink: projects/cotton
+permalink: projects/pokemonMaybe
 # All dates must be YYYY-MM-DD format!
 date: 2019-03-12
 labels:
@@ -11,51 +11,7 @@ labels:
   - Game
 summary: A text adventure game with GUI that I developed in high school.
 ---
+Pokemon Maybe is an attempt from me to try to recreate the famous game Pokemon for my AP computer science class back in high school.
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
-
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
-
-To give you a flavor of the game, here is an excerpt from one run:
-
-<hr>
-
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
-
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
-
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
-
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+Pokemon Maybe is an attempt from me to try to recreate the famous game Pokemon for my AP computer science class back in high school. This game is a text-based adventure game with a map that contained different enemies at random locations. The game is not fully complete. Currently, the user can pick which pokemon they want to start with first. Each Pokemon have different properties like their type, moves, and stats. The user can go around the map and choose to fight all of the enemies. As the user defeats each enemy, the pokemon will level up along with their stats making them stronger. The game has a save and load function where the user can save their current progress and keep it for next time. The user can either choose to type out the command or use the GUI to play the game. This was the first major project I coded in Java. In this project, I learned a lot about classes (abstract classes, hierarchy), and different libraries like JFrame, JButton, JLabel, JPanel, JTextArea, and Color. 
 
