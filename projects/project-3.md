@@ -12,10 +12,10 @@ labels:
 summary: A text adventure game with GUI that I developed in high school.
 ---
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/poke1.JPG">
-  <img class="ui image" src="../images/poke2.JPG">
-  <img class="ui image" src="../images/poke3.JPG">
-  <img class="ui image" src="../images/poke4.JPG">
+  <img class="ui medium right floated rounded image" src="../images/poke1.JPG">
+  <img class="ui medium right floated rounded image" src="../images/poke2.JPG">
+  <img class="ui medium right floated rounded image" src="../images/poke3.JPG">
+  <img class="ui medium right floated rounded image" src="../images/poke4.JPG">
 </div>
 
 
