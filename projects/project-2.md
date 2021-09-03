@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
+image: images/bank3.jpg
 title: Bank Database
-permalink: projects/vacay
+permalink: projects/bankdatabase
 # All dates must be YYYY-MM-DD format!
 date: 2015-12-15
 labels:
