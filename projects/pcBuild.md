@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/pc1.jpg
 title: Building A Computer
-permalink: projects/computer
+permalink: projects/pcBuild
 # All dates must be YYYY-MM-DD format!
 date: 2016-09-15
 labels:
