@@ -21,8 +21,8 @@ Normally, when people hear the phrase, “build your own computer,” their firs
 
 <img class="ui medium left floated image" src="../images/pc4.jpg"> 
 <img class="ui medium left floated image image" src="../images/pc5.jpg">
+## My Short Tutorial for Building a PC 
   <ol>
-    <li> ## My Short Tutorial for Building a PC </li>
     <li> Read the manuals </li>
     <li> Take out your motherboard and put it on top of the motherboard bo </li>
     <li> Put the rams stick in the ram slot on the motherboard(it should make a click sound if it's correctly installed in the slot) </li>
