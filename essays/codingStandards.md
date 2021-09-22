@@ -15,7 +15,7 @@ labels:
 function functionOne(){
 let i; i = 1 + 1;
 let Testvariable = true
-	if(Testvariable)
+  if(Testvariable)
   return i + 1;
   else
   return i;
@@ -24,13 +24,13 @@ let Testvariable = true
 
 ```
 function functionTwo(){
-	let i;
+  let i;
   i = 1 + 1;
   let testVariable = true;
   if (testVariable) {
-  	return i + 1;
+    return i + 1;
   } else {
-  	return i;
+    return i;
   }
 }
 ```
