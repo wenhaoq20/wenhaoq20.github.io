@@ -11,7 +11,7 @@ labels:
   - Intellij
 ---
 
-```
+```javascript
 function functionOne(){
 let i; i = 1 + 1;
 let Testvariable = true
@@ -22,7 +22,7 @@ let Testvariable = true
 }
 ```
 
-```
+```javascript
 function functionTwo(){
   let i;
   i = 1 + 1;
