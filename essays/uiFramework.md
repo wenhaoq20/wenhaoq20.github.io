@@ -19,10 +19,10 @@ labels:
 ## Why UI Framework
   Semantic UI is just one of many UI Frameworks. There are many more UI Frameworks that are available to use. A UI Framework is a library with a set of classes and interfaces that helps you create certain elements when you make a website. Although using the UI Framework is extremely helpful and helps you make beautiful websites easier, it still takes time and effort to learn how to properly use it. It can be challenging in the beginning; I was overwhelmed with the amount of features Semantic UI has in store for me: icons, loaders, menus, dropdowns, and many more. Even with the investment needed for UI Framework, I think that using a UI Framework is still miles better than using only raw HTML and CSS to code a website. Using a UI Framework is more efficient because you only need to type out the syntax instead of spamming pages of code in CSS just to make a dropdown menu. On a large-scale website, I can’t imagine how much time you would take to design each component of the website if you are only using raw HTML and CSS. It would be a painful experience that I am sure no one enjoys. 
 
-<h2>Using raw HTML and CSS</h2>
+<h3>Using raw HTML and CSS</h3>
 <img class="ui image" src="../images/ui2.jpg">
 
-<h2>Using Semantic UI</h2>
+<h3>Using Semantic UI</h3>
 <img class="ui image" src="../images/ui1.jpg">
 
 ## To Conclude
