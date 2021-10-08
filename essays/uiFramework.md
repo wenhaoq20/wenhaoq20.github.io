@@ -13,6 +13,7 @@ labels:
   - Reflection
 ---
 
+
   When I was introduced to HTML and CSS from code.org in high school, I thought that creating an appealing website was difficult because it takes too much work in CSS just to style an element. At that time, I was only able to create a simple website with normal preset fonts and solid boring colors from the basic HTML code I was introduced to. With the introduction of Semantic UI, my first impression was that it’s an amazing tool that I wished I knew back in high school. It makes life so much easier whenever I need to make an element like a button or an icon when Semantic UI auto-does it for me. I don’t have to worry about the background color or the size of the element, all I need to do is search up a keyword in the class, and Semantic UI takes care of the rest. However, as I learn more about Semantic UI, I realized that this is much more complicated than what meets the eye. It’s an in-depth tool that can sometimes be confusing and frustrating to use. After spending much more time with Semantic UI, I still hold the opinion that the benefits of Semantic UI outweigh the frustrations it causes.  
 
 ## Why UI Framework
