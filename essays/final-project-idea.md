@@ -19,6 +19,8 @@ Many first-time college students live away from their parents and are on their o
 The solution:
 Create an app/website available to students that helps to track their eating habits, food intake, and exercise goals as well as calculates approximate calories both intake and burned. This social platform would allow students to connect by helping them find a gym buddy sharing their workouts and favorite HEALTHY recipes. It will send warnings to the student if they are eating unhealthy or need to exercise more.
 
+<img class="ui image" src="/images/fp.jpg">
+
 ## Mockup page idea (user):
  * Main page (before sign in)
     * Tabs to go to different pages
@@ -38,7 +40,7 @@ Create an app/website available to students that helps to track their eating hab
     * Shows some exercises that you can do at home easily
     * Alerts/warnings
 
-Mockup page idea (admin):
+## Mockup page idea (admin):
  * Main page (before sign in)
     * Sign in
  * Main page (after sign in)
