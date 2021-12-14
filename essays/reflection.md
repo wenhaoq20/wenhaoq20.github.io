@@ -10,6 +10,8 @@ labels:
   - Reflection
 ---
 
+<img class="ui image" src="/images/reflect1.jpg">
+
 When I was picking classes for the fall 2021 semester, the class, ICS 314: Software engineering, sounded very daunting at first. But after taking this class for almost four months, I can say that this class so far is one of the best computer science classes I have taken in college. There are many aspects of this class that I really liked. I was finally able to work with other people on a big coding project, the coding assignments were applicable in real life, and it overall broadened my view on software development. In this class, I learned many things like javascript, react, semantic-ui, meteor, ethics, etc… However, there are two major concepts that I feel were very important, functional programming and agile project management. 
 
 ## New Style of Programming
