@@ -108,6 +108,18 @@
         "Implemented Windows 10 and Windows 10 server harden techniques to prevent security risks"
       ]
     }
+    {
+      "organization": "Hawaii Annual Code Challenge",
+      "website": "https://hacc.hawaii.gov/",
+      "position": "Project Lead/Programmer",
+      "startDate": "2021-10-23",
+      "endDate": "2021-11-20",
+      "summary": "Lead a team that competed in the HACC 2021 challenge that created application for OHA Chatbot",
+      "highlights": [
+        "Finalist in the compeition",
+        "Used various techonologies to create the application (MongoDB, Meteor, Semantic UI, React, Javascript, HTML, CSS)"
+      ]
+    }
   ],
   "awards": [
     {
