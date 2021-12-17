@@ -36,4 +36,4 @@ My main contribution to this project was being the project lead. I planned out t
 ## What I learned
 Throughout this project, I learned many new things about Meteor, MongoDB, and React. I gain a better understanding of how to connect MongoDB to the frontend of the website. For example, loading the user’s data from a JSON file, then using a schema to add the necessary data to the collection database, and outputting all the data as a graph or table. I also learned how to code in a team environment, communicate with other members, and manage a coding project.
 
-This link to the project website can be found [here](catjams.github.io/) and the project repository can be found [here](https://github.com/catjams/catbot).
+This link to the project website can be found [here](https://catjams.github.io/) and the project repository can be found [here](https://github.com/catjams/catbot).
