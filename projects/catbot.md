@@ -27,7 +27,9 @@ The Catbot initially started as a web application for the competition HACC 2021 
 
 ## My contributions
 My main contribution to this project was being the project lead. I planned out the looks of the final product and the functionality that are going to be added to the website. I was also responsible for the frontend and backend of this project. For the frontend development, I created multiple pages like send feedback, view feedback, admin page, and analytics page. I also implemented functionality such as filtering, pagination, and modal to some of these pages which makes viewing information easier. For the backend development, I created multiple collections that keep track of admin activities, user feedbacks, user ratings, user responses, and user stats. All of these collections provide insightful information to the website admin. 
+### User Rating Page
 <img class="ui image" src="../images/user-ratings.jpg">
+### View User Feedback Page
 <img class="ui image" src="../images/view-feedback.jpg">
 
 ## What I learned
