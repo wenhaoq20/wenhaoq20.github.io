@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/landing-page.jpg
+image: images/logo.jpg
 title: Catbot
 permalink: projects/catbot
 # All dates must be YYYY-MM-DD format!
