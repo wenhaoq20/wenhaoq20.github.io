@@ -11,6 +11,8 @@ labels:
   - ICS 414
 ---
 
+<img class="ui image" src="/images/perspectives.jpg">
+
 When I signed up for this class, ICS 414, I initially thought that this class would be exactly the same as ICS 314 which I had a few semesters ago. However, after taking this class this semester, I can confidently say that I was wrong and that there are many differences between ICS 314 and ICS 414. The main differences are that the groups for the project are bigger (6-7 people in a group instead of 3-4 people), there are weekly code reviews for the team, and for this semester we are maintaining and updating an existing project instead of creating a new one. These three differences are also the topics I want to reflect on in this essay.
 
 ## The More People In a Group, The Better?
